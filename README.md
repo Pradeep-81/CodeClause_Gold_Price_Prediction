@@ -6,7 +6,7 @@ This repository contains the code and resources for the Gold Price Prediction pr
 
 The goal of this project is to develop a machine learning model that can predict the price of gold based on historical data. The project involves the following steps:
 
-1. Data collection: Gather historical gold price data from reliable sources[source](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data?resource=download).
+1. Data collection: Gather historical gold price data from [kaggle](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data?resource=download).
 2. Data preprocessing: Clean and preprocess the collected data to make it suitable for model training.
 3. Model selection: Explore different machine learning algorithms and select the most suitable one for gold price prediction.
 4. Model training: Train the selected model using the preprocessed data.
